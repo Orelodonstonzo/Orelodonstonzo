@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Figma projects: 
+Figma projects: UI/UX DESIGNS
 - Headphone store: https://www.figma.com/file/Gea8b9lPozcMB1tIE6XzQx/Headphone-store-Copy
 - Animal app: https://www.figma.com/file/lKsUUstfhDzAVVgglDDrun/Wiki-Animal
 - Personal task: https://www.figma.com/file/ARirOrPrjIgTTadjjPCQOJ/personal-trial
